@@ -12,7 +12,7 @@ windows 11 LTSC
 edge
 
 [步骤]
-1.了解到robots.txt 通常保存在https://example.com/Robots.txt
+1.了解到robots.txt 通常保存在https://example.com/Robots.txt（可以使用工具dirsearch进行扫描发现）
 
 2.尝试访问，看到"User-agent: *
 Disallow: 
