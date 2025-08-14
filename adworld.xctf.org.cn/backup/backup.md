@@ -41,18 +41,15 @@ $flag="Cyberpeace{855A1C4B3401294CB6604CCC98BDE334}"
 ?>
 </body>
 </html>
-”
-[图片]
-1.![alt text](image.png)
+```
 
-2.![alt text](image-1.png)
+## 图片
+1. ![扫描工具界面](image.png)
+2. ![发现文件](image-1.png)
+3. ![下载文件](image-2.png)
+4. ![文件内容](image-3.png)
+5. ![文件分析](image-4.png)
+6. ![最终结果](image-5.png)
 
-3.![alt text](image-2.png)
-
-4.![alt text](image-3.png)
-
-5.![alt text](image-4.png)
-
-6.![alt text](image-5.png)
-[答案]
-Cyberpeace{855A1C4B3401294CB6604CCC98BDE334}
+## 答案
+`Cyberpeace{855A1C4B3401294CB6604CCC98BDE334}`
